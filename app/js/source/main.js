@@ -63,7 +63,6 @@
     while(i <= max){
       dat.num1 *= i;
       i++;
-      printR(dat.num1);
     }
     printR(dat.num1);
   }
